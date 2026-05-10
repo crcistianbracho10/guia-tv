@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Canal C Generator">
+  <channel id="CanalC.ve">
+    <display-name>Canal C - El Zulia</display-name>
+    <icon src="https://canalcdelzulia.odoo.com/web/image/website/1/logo/Canal%20C%20Del%20Zulia?unique=072bee5" />
+  </channel>
+
+  <programme start="20260507230000 -0400" stop="20260508040000 -0400" channel="CanalC.ve">
+    <title lang="es">Cine TVES</title>
+    <desc lang="es">Programacion nacional en cortesia de TVES. [Cortesia TVES]</desc>
+    <category lang="es">Cine</category>
+  </programme>
+
+  <programme start="20260508040000 -0400" stop="20260508060000 -0400" channel="CanalC.ve">
+    <title lang="es">Canal C: Madrugada</title>
+    <desc lang="es">Produccion original con lo mejor de nuestra region. [Produccion Canal C]</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+
+  <programme start="20260508060000 -0400" stop="20260508080000 -0400" channel="CanalC.ve">
+    <title lang="es">100% Noticias</title>
+    <desc lang="es">Noticiero matutino en alianza con Canal 11. [Informativo]</desc>
+    <category lang="es">Noticias</category>
+  </programme>
+
+  <programme start="20260508080000 -0400" stop="20260508130000 -0400" channel="CanalC.ve">
+    <title lang="es">Manana de Canal C</title>
+    <desc lang="es">Musica, cultura y entrevistas en vivo desde el Zulia. [Variedades]</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+
+  <programme start="20260508130000 -0400" stop="20260508140000 -0400" channel="CanalC.ve">
+    <title lang="es">Zulia en Caliente</title>
+    <desc lang="es">Analisis politico de la mano de Canal 11. [Opinion]</desc>
+    <category lang="es">Politica</category>
+  </programme>
+
+  <programme start="20260508140000 -0400" stop="20260508150000 -0400" channel="CanalC.ve">
+    <title lang="es">Maracaibo Irreverente</title>
+    <desc lang="es">El programa mas visto de la television regional. [Tendencia]</desc>
+    <category lang="es">Social</category>
+  </programme>
+
+  <programme start="20260508150000 -0400" stop="20260508160000 -0400" channel="CanalC.ve">
+    <title lang="es">Tarde de Canal C</title>
+    <desc lang="es">Contenido variado para toda la familia zuliana. [Original]</desc>
+    <category lang="es">Familiar</category>
+  </programme>
+
+  <programme start="20260508160000 -0400" stop="20260508230000 -0400" channel="CanalC.ve">
+    <title lang="es">Estelar Canal C</title>
+    <desc lang="es">Grandes producciones y reportajes especiales. [Prime Time]</desc>
+    <category lang="es">Especiales</category>
+  </programme>
+</tv>
