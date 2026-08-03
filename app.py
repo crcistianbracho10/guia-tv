@@ -14,8 +14,8 @@ El reproductor inferior utiliza la **API oficial de YouTube Live**.
 Evita el error de 'Conexión rechazada' y busca automáticamente la transmisión en vivo las 24 horas.
 """)
 
-# CÓDIGO HTML5 INTEGRADO CON LA API DE EMBED DE GOOGLE
-# Reemplaza la URL m3u8 por el visor oficial embebido que salta las restricciones de Hugging Face/Streamlit
+# CÓDIGO HTML5 INTEGRADO CON LA API DE EMBED DE GOOGLE (CORREGIDO)
+# Se corrigió la URL añadiendo /embed/live_stream?channel= para que el navegador encuentre la transmisión real
 codigo_reproductor_oficial = f"""
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000; border-radius: 12px; box-shadow: 0px 8px 24px rgba(0,0,0,0.5);">
     <iframe 
